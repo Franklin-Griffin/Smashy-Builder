@@ -1,4 +1,5 @@
 # Smashy Builder
+A simple 2D Unity game
 ### Running
 #### Option A:
 Download Unity v2020.3.25f1 from the [download archive.](https://unity3d.com/get-unity/download/archive) After download the project code, open Unity Hub, press Open, select the directory of the project code, open the project, and press play.
